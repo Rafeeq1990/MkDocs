@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="core_aws_services">
+    <title>Core AWS Services</title>
+    <shortdesc>AWS offers over 200 services. Here are the fundamental ones you must know to get
+        started.</shortdesc>
+    <conbody>
+        <p><b>1.  Database Services</b></p>
+        <ul id="ul_bwg_s4h_2jc">
+            <li><b><b>Amazon RDS (Relational Database Service):</b></b> Managed SQL databases. It
+                supports engines like MySQL, PostgreSQL, Oracle, SQL Server, and <b><b>Amazon
+                        Aurora</b></b> (AWS's high-performance proprietary engine).</li>
+            <li><b><b>Amazon DynamoDB:</b></b> A managed NoSQL database service that provides fast
+                and predictable performance with seamless scalability.</li>
+        </ul>
+        <p>p</p>
+        <p><b>4. Networking Services</b><ul id="ul_a5q_w4h_2jc">
+                <li><b><b>Amazon VPC (Virtual Private Cloud):</b></b> Lets you provision a logically
+                    isolated section of the AWS Cloud where you can launch resources in a virtual
+                    network you define.</li>
+                <li><b><b>Amazon CloudFront:</b></b> A Content Delivery Network (CDN) that speeds up
+                    distribution of your static and dynamic web content to users.</li>
+                <li><b><b>Amazon Route 53:</b></b> A highly available and scalable cloud Domain Name
+                    System (DNS) web service.</li>
+            </ul></p>
+    </conbody>
+</concept>
